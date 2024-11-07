@@ -4,3 +4,4 @@ project(untitled)
 set(CMAKE_CXX_STANDARD 23)
 
 add_executable(untitled HelloWorld.cpp)
+add_executable("C/Hello.c")
