@@ -9,4 +9,3 @@ int main(){
   printf("My past age at index 2 is %d\n", my_pastAges[2]);
   return 0;
   }
- 
